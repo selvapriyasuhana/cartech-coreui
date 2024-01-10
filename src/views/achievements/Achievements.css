@@ -1,0 +1,10 @@
+.heading{
+  background-color:aqua;
+  font-size: large;
+  text-align:left;
+}
+.details{
+  background-color: bisque;
+  padding-top:20px ;
+  padding-bottom:20px;
+}

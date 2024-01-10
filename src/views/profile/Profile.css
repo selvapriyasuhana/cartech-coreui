@@ -1,0 +1,15 @@
+.profile{
+    background-color:goldenrod;
+    text-align: left;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+}
+.pro{
+    font-weight: 300;
+    color:black;
+    font-family: sans-serif;
+    text-align: justify
+    ;
+}

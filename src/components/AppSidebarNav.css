@@ -1,0 +1,14 @@
+.sidebar{
+    background-color:darkmagenta;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+.nav-link-text.active {
+    background-color:darkmagenta;
+    color:darkmagenta;
+  }
+  .nav-link-rest{
+    background-color:darkmagenta ;
+  }
+  

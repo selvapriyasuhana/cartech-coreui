@@ -1,0 +1,43 @@
+.car{
+    background-color:lightpink;
+    text-align: left;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+}
+.manu{
+    font-weight: 300;
+    color:seagreen;
+    font-family: sans-serif;
+    text-align: justify;
+    
+}
+.details{
+    background-color: bisque;
+}
+.dp{
+    background-color:bisque;
+    padding-top: 20px;
+
+}
+.ms{
+background-color: bisque;
+padding-top: 20px;
+}
+.alp{
+background-color: bisque;
+padding-top: 20px;
+}
+.qc{
+    background-color: bisque;
+    padding-top: 20px;
+}
+.ti{
+    background-color: bisque;
+    padding-top: 20px;
+}
+.ps{
+    background-color: bisque;
+    padding-top: 20px;
+}

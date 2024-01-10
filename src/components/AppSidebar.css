@@ -1,0 +1,17 @@
+/* AppSidebar.css */
+
+.custom-sidebar {
+    /* Set your desired background color */
+    color: #ecf0f1; /* Set your desired text color */
+  }
+  
+  .custom-sidebar-brand {
+   /* Set your desired brand background color */
+    color: #ecf0f1; /* Set your desired brand text color */
+  }
+
+  .sidebar-brand-full{
+    font-weight:475px;
+    font-weight: bolder;
+    font-size:x-large;
+  }

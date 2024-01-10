@@ -1,0 +1,11 @@
+.product{
+    background-color:cadetblue;
+    text-align: left;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+} 
+.group{
+    background-color: bisque;
+}
